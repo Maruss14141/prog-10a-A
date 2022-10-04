@@ -1,1 +1,1 @@
-Mans pirmais git projekts
+Read me.
